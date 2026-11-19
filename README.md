@@ -1,6 +1,6 @@
 # Tallam — Bug Report
 
-QC bug report for the Tallam (تعلم) educational platform — 18 bugs (tax invoice, website, admin, users API, mobile app, Tamara payment backend).
+QC bug report for the Tallam (تعلم) educational platform — 21 bugs (tax invoice, website, admin, users API, admin reports, mobile app, Tamara payment backend).
 
 - **Report:** [`Tallam_Bug_Report.html`](Tallam_Bug_Report.html) — self-contained (screenshots embedded).
 - **Videos:** `BUG-12.mp4`, `BUG-15.mp4`, `BUG-16.mp4`, `BUG-17.mp4` — loaded by the report from the same folder (BUG-11's video is embedded in the HTML).
